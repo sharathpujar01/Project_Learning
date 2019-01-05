@@ -12,3 +12,5 @@ pip install django-embed-video==1.1.2
 
 Then make migrations and run the application.
 
+for more information refer  Book :"Django 2 by Example" by Antonio Mele
+
