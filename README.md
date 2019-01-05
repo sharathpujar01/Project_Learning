@@ -9,6 +9,7 @@ pip install django-braces==1.13.0
 4)To embed video use command :
 pip install django-embed-video==1.1.2
 
+please uncomment the 'memcache_status' in settings.py file in educa
 
 Then make migrations and run the application.
 
