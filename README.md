@@ -8,6 +8,12 @@ pip install Pillow==5.1.0
 pip install django-braces==1.13.0
 4)To embed video use command :
 pip install django-embed-video==1.1.2
+5)Download memcached from https://memcached.org/downloads
+then, install its python bindings:
+pip install python-memcached==1.59
+Install third-party package django-memcache-status:
+pip install django-memcache-status==1.3
+
 
 please uncomment the 'memcache_status' in settings.py file in educa
 
