@@ -17,7 +17,4 @@ pip install django-memcache-status==1.3
 
 please uncomment the 'memcache_status' in settings.py file in educa
 
-Then make migrations and run the application.
-
-for more information refer  Book :"Django 2 by Example" by Antonio Mele
-
+Then make migrations and run the application
